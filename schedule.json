@@ -1,0 +1,10 @@
+{
+  "Monday": {"10:45 to 11:45" : "CRT", "11:45 to 12:45" : "MAD", "1245 2115" : "RECESS", "115 2215" : "MLA", "215 2315" : "Humanities Elective", "3:15 to 3:30": "Recess", "3:30 to 4:30": "Sports"},
+  "Tuesday" : {"10:45 to 11:45" : "Library", "11:45 to 12:45" : "UDM", "1245 2115" : "RECESS", "115 2315" : "Software Testing Practical", "3:15 to 3:30" : "Recess", "3:30 to 4:30" : "Neural Network" },
+  "Wednesday" : {"10:45 to 11:45" : "CVDL", "11:45 to 12:45" : "Employability Skills", "1245 2115" : "Recess", "115 2215" : "MLA", "215 2315" : "Software Testing", "3:15 to 3:30": "Recess",  "3:30 to 4:30" : "Neural Network" },
+  "Thursday" : {"10:45 to 12:45" :  "UDM Practical",  "1245 2115" : "RECESS", "115 2215" : "CRT", "215 2315" : "UHV", "3:15 to 3:30": "Recess", "3:30 to 4:30" : "UDM", "4:30 to 5:30" : "MAD"},
+  "Friday" : {"10:45 to 12:45" : "MLA", "1245 2115" : "RECESS", "115 2215" :"Employability Skills", "215 2315" : "Humanities Elective", "3:15 to 3:30": "Recess", "3:30 to 4:30": "UHV", "4:30 to 5:30" : "MAD"},
+  "Saturday" : "Sleep Well No classes Today",
+  "Sunday" : "Study Well, Do DSA and Open Source"
+
+}
